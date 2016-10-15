@@ -1,4 +1,4 @@
-HTML, CSS & Javascript Basics #87 and Basic Algorithm Scripting #86
+<h3>HTML, CSS & Javascript Basics #87 and Basic Algorithm Scripting #86</h3>
 
 Description
 
@@ -13,6 +13,8 @@ HTML, CSS & Javascript Basics #87:
  jQuery
  Basic Javascript
  Object Oriented and Functional Programming
+ 
+ 
 Basic Algorithm Scripting #86:
 
  Get Set for our Algorithm Challenges
