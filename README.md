@@ -1,21 +1,21 @@
-<h3>HTML, CSS & Javascript Basics #87 and Basic Algorithm Scripting #86</h3>
+<h2>HTML, CSS & Javascript Basics #87 and Basic Algorithm Scripting #86</h2>
 
-<h4>Description</h4>
+<h3>Description</h3>
 
 Complete the sections here: https://www.freecodecamp.com/map
 
-<h4>Specifications</h4>
+<h3>Specifications</h3>
 
 HTML, CSS & Javascript Basics #87:
 
- HTML & CSS
+ <h4>HTML & CSS</h4>
  Responsive design with bootstrap
  jQuery
  Basic Javascript
  Object Oriented and Functional Programming
  
  
-Basic Algorithm Scripting #86:
+<h4>Basic Algorithm Scripting #86:</h4>
 
  Get Set for our Algorithm Challenges
  Reverse a String 
