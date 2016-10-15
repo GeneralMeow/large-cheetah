@@ -1,6 +1,6 @@
 <h3>HTML, CSS & Javascript Basics #87 and Basic Algorithm Scripting #86</h3>
 
-Description
+<h4>Description</h4>
 
 Complete the sections here: https://www.freecodecamp.com/map
 
