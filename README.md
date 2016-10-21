@@ -11,25 +11,25 @@ https://www.freecodecamp.com/map
 <h4>HTML, CSS & Javascript Basics #87:</h4>
 
  <h4>HTML & CSS</h4>
- - [ ] Responsive design with bootstrap
- - [ ] jQuery
- - [ ] Basic Javascript
- - [ ] Object Oriented and Functional Programming
+ - [X] Responsive design with bootstrap
+ - [X] jQuery
+ - [X] Basic Javascript
+ - [X] Object Oriented and Functional Programming
  
  
 <h4>Basic Algorithm Scripting #86:</h4>
 
- - [ ] Get Set for our Algorithm Challenges
- - [ ] Reverse a String 
- - [ ] Factorialize a Number 
- - [ ] Check for Palindromes 
- - [ ] Find the Longest Word in a String 
- - [ ] Title Case a Sentence 
- - [ ] Return Largest Numbers in Arrays 
- - [ ] Confirm the Ending 
- - [ ] Repeat a string repeat a string 
- - [ ] Truncate a string 
- - [ ] Chunky Monkey 
+ - [X] Get Set for our Algorithm Challenges
+ - [X] Reverse a String 
+ - [X] Factorialize a Number 
+ - [X] Check for Palindromes 
+ - [X] Find the Longest Word in a String 
+ - [X] Title Case a Sentence 
+ - [X] Return Largest Numbers in Arrays 
+ - [X] Confirm the Ending 
+ - [X] Repeat a string repeat a string 
+ - [X] Truncate a string 
+ - [X] Chunky Monkey 
  - [ ] Slasher Flick 
  - [ ] Mutations 
  - [ ] Falsy Bouncer 
