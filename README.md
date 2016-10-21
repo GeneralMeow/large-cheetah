@@ -29,7 +29,7 @@ https://www.freecodecamp.com/map
  - [X] Confirm the Ending 
  - [X] Repeat a string repeat a string 
  - [X] Truncate a string 
- - [ ] Chunky Monkey 
+ - [X] Chunky Monkey 
  - [ ] Slasher Flick 
  - [ ] Mutations 
  - [ ] Falsy Bouncer 
